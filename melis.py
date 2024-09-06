@@ -52,7 +52,7 @@ def melis_pol_par(Ts, nuL = 3.46e14, hnuI = 1.2817e-11):
     ## Fit with a polynomial for future use
     melis_pol_par = np.polyfit(r_grid, temps, deg = 10)
     
-    return melis_par
+    return melis_pol_par
 
 if __name__ == "__main__":
   melis_pol_par = melis_pol_par(21243) ## At temperature of WDJ1013
