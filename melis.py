@@ -3,6 +3,13 @@
 import numpy as np
 import scipy
 
+## Defining Constants
+kb = 1.3806e-16
+mH = 1.67e-24
+h = 6.626e-27
+c = 3e10
+h = 6.626e-27
+
 def melis_pol_par(Ts, nuL = 3.46e14, hnuI = 1.2817e-11):
     mca = 40*mH
     
