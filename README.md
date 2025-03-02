@@ -1,4 +1,4 @@
-## Codes for the models developed in Sections 5.1 and 5.2 in the paper titled "A ZTF Search for Circumstellar Debris Transits in White Dwarfs: Six New Candidates, one with Gas Disk Emission, identified in a Novel Metric Space" by [Bhattacharjee et al. 2025]{https://ui.adsabs.harvard.edu/abs/2025arXiv250205502B/abstract}
+## Codes for the models developed in Sections 5.1 and 5.2 in the paper titled "A ZTF Search for Circumstellar Debris Transits in White Dwarfs: Six New Candidates, one with Gas Disk Emission, identified in a Novel Metric Space" by [Bhattacharjee et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250205502B/abstract)
 
 modelling_color_dependent_transit.ipynb -- This notebook contains the optically thin color-dependent dust extinction model developed in Section 5.1 in the paper. The notebook will reproduce Figures 10 and 11 in the paper.
 
