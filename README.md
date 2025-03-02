@@ -8,5 +8,5 @@ melis.py -- Additional code snippet to solve for gas temperature using Melis+201
 
 Comments on the codes, their performance, and suggestion for any improvements are welcome. are welcome! If you are using (part of these) codes in your work, kindly cite the paper mentioned above. Any changes/corrections in the codes are welcome. If done so, the lead author of the paper would appreciate if contacted and informed (contact information below). Significant improvements can also be incorporated in the codes and the model can be made better.
 
-Corresponding author: Soumyadeep Bhattacharjee \\
+Corresponding author: Soumyadeep Bhattacharjee |
 Email: sbhatta2@caltech.edu
